@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/search_item_info_title"
+        android:title="修改书名和简介" />
+    <item
+        android:id="@+id/search_item_info_catalog"
+        android:title="修改目录和章节" />
+</menu>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.home">
+
+    <application>
+        <activity android:name=".Home_MainActivity" />
+        <activity android:name=".info.catalog.Home_CatalogActivity2" />
+        <activity android:name=".info.catalog.Home_CatalogActivity" />
+        <activity android:name=".bookshelf.history.Home_HistoryActivity" />
+        <activity android:name=".info.Home_InfoActivity" />
+        <activity android:name=".info.read.Home_ReadActivity" />
+        <activity android:name=".search.Home_SearchActivity" />
+    </application>
+
+</manifest>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_launcher_background"
+        android:title="微信" />
+    <item
+        android:icon="@drawable/ic_launcher_background"
+        android:title="朋友圈" />
+    <item
+        android:icon="@drawable/ic_launcher_background"
+        android:title="QQ" />
+    <item
+        android:icon="@drawable/ic_launcher_background"
+        android:title="微博" />
+    <item
+        android:icon="@drawable/ic_launcher_background"
+        android:title="添加到书单" />
+</menu>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".bookshelf.Home_BookshelfFragment">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/home_bookshelf_toolbar"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:background="@color/white"
+        android:minHeight="?attr/actionBarSize"
+        android:paddingTop="50dp"
+        android:theme="?attr/actionBarTheme"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:menu="@menu/home_menu_bookshelf"
+        app:title="书架"
+        app:titleTextColor="@color/black">
+
+        <Button
+            android:id="@+id/home_bookshelf_search"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginStart="10dp"
+            android:background="@drawable/home_shape_20"
+            android:backgroundTint="@color/white"
+            android:drawableStart="@drawable/home_img_search"
+            android:drawablePadding="10dp"
+            android:gravity="center|start"
+            android:paddingStart="10dp"
+            android:text="搜罗大陆"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/textView6"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/home_bookshelf_recycler_view"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@color/white2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/home_bookshelf_toolbar" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

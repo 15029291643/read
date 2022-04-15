@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.search">
+
+    <application>
+        <activity android:name=".writer.info.catalog.Search_CatalogActivity" />
+        <activity android:name=".writer.info.title.Search_TitleActivity" />
+        <activity android:name=".writer.info.Search_InfoActivity" />
+        <activity android:name=".writer.info.edit.Search_EditActivity" />
+        <activity android:name=".Search_MainActivity" />
+        <activity android:name=".Search_MainActivity2"/>
+    </application>
+
+</manifest>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".writer.info.title.Search_TitleActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/search_title_toolbar"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:background="@color/white"
+        android:minHeight="?attr/actionBarSize"
+        android:paddingTop="50dp"
+        android:theme="?attr/actionBarTheme"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/search_title_img"
+        android:layout_width="150dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="16dp"
+        android:translationZ="2dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/search_title_toolbar" />
+
+    <EditText
+        android:id="@+id/search_title_title"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:background="@drawable/search_shape_10"
+        android:backgroundTint="@color/white2"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="请输入书名，汉字15字以内"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/search_title_img" />
+
+    <EditText
+        android:id="@+id/search_title_intro"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/search_shape_10"
+        android:backgroundTint="@color/white2"
+        android:ems="10"
+        android:gravity="start|top"
+        android:hint="作品简介"
+        android:inputType="textPersonName"
+        android:padding="16dp"
+        app:layout_constraintBottom_toTopOf="@+id/search_title_writer"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/search_title_title"
+        app:layout_constraintVertical_bias="0.504" />
+
+    <Button
+        android:id="@+id/search_title_writer"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/search_shape_10"
+        android:backgroundTint="@color/blue2"
+        android:text="开始写作"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/search_shape_10"
+        android:backgroundTint="@color/white2"
+        android:gravity="center"
+        android:text="点击添加图片"
+        app:layout_constraintBottom_toBottomOf="@+id/search_title_img"
+        app:layout_constraintEnd_toEndOf="@+id/search_title_img"
+        app:layout_constraintStart_toStartOf="@+id/search_title_img"
+        app:layout_constraintTop_toTopOf="@+id/search_title_img" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

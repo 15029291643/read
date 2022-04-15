@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_menu_item_catalog"
+        android:icon="@drawable/home_img_catalog"
+        android:title="目录" />
+    <item
+        android:icon="@drawable/home_img_message"
+        android:title="书友圈" />
+    <item
+        android:icon="@drawable/home_img_night"
+        android:title="夜间" />
+    <item
+        android:icon="@drawable/home_img_setting"
+        android:title="设置" />
+</menu>

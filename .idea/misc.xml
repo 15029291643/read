@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/program/Android/Java2/MyApplication12/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26481481481481484" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26481481481481484" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/common/src/main/res/xml/nettools.xml" value="0.2657407407407407" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/drawable-v24/home_shape_10.xml" value="0.26481481481481484" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/drawable-v24/home_shape_25.xml" value="0.2786458333333333" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/drawable-v24/home_shape_50.xml" value="0.26481481481481484" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/drawable/home_shape.xml" value="0.26481481481481484" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/drawable/home_shape_20.xml" value="0.2786458333333333" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/drawable/home_shape_40.xml" value="0.26481481481481484" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/activity_home_bookshelf.xml" value="0.29270833333333335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/activity_home_discover.xml" value="0.17777777777777778" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/activity_home_me.xml" value="0.29270833333333335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/activity_home_selection.xml" value="0.17777777777777778" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/fragment_home__read.xml" value="0.18385416666666668" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home__discover_fragment2.xml" value="0.335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home__topical_fragment.xml" value="0.29270833333333335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_activity_main.xml" value="0.1796875" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_bookshelf_fragment.xml" value="0.25" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_bookshelf_history_activity.xml" value="0.26296296296296295" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_bookshelf_item_view.xml" value="0.29270833333333335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_boy_fragment.xml" value="0.29270833333333335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_catalog_activity.xml" value="0.29270833333333335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_catalog_activity2.xml" value="0.3416666666666667" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_catalog_fragment.xml" value="0.25" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_dfragment_iscover.xml" value="0.17777777777777778" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_discover_fragment.xml" value="0.27314814814814814" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_discover_fragment2.xml" value="0.290625" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_find_activity.xml" value="0.2882051282051282" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_fragment_bookshelf.xml" value="0.33" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_fragment_discover.xml" value="0.29270833333333335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_fragment_history.xml" value="0.21481481481481482" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_fragment_me.xml" value="0.29270833333333335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_fragment_selection.xml" value="0.1" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_girl_fragment.xml" value="0.29270833333333335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_history_activity.xml" value="0.33" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_history_fragment.xml" value="0.29270833333333335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_info_activity.xml" value="0.25" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_intro_activity.xml" value="0.12129629629629629" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_intro_fragment.xml" value="0.27314814814814814" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_intro_read_activity.xml" value="0.12129629629629629" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_item.xml" value="0.33" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_item_catalog.xml" value="0.29270833333333335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_item_discover.xml" value="0.35833333333333334" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_item_point.xml" value="0.35833333333333334" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_item_view_bookshelf.xml" value="0.33" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_item_view_discover.xml" value="0.29270833333333335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_item_view_me.xml" value="0.29270833333333335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_item_view_selection.xml" value="0.29270833333333335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_main_activity.xml" value="0.29270833333333335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_me_fragment.xml" value="0.27314814814814814" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_read_activity.xml" value="0.25" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_read_fragment.xml" value="0.27314814814814814" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_read_fragment2.xml" value="0.18385416666666668" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_search_activity.xml" value="0.25" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_search_fragment.xml" value="0.27314814814814814" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_selection_boy_fragment.xml" value="0.29270833333333335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_selection_fragment.xml" value="0.2777777777777778" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_selection_fragment_fragment.xml" value="0.2777777777777778" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_selection_girl_fragment.xml" value="0.2882051282051282" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_selection_self_fragment.xml" value="0.2882051282051282" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_self_fragment.xml" value="0.29270833333333335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/layout/home_topical_fragment.xml" value="0.29270833333333335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/menu/home_bookshelf_menu.xml" value="0.29270833333333335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/menu/home_bottom_navigation_view.xml" value="0.29270833333333335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/menu/home_history.xml" value="0.2359375" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/menu/home_menu.xml" value="0.287962962962963" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/menu/home_menu_bookshelf.xml" value="0.20989583333333334" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/menu/home_menu_catalog.xml" value="0.29270833333333335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/menu/home_menu_history.xml" value="0.20989583333333334" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/menu/home_menu_info.xml" value="0.20989583333333334" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/menu/home_menu_navigation.xml" value="0.2111111111111111" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/menu/home_menu_read_bottom.xml" value="0.20989583333333334" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/menu/home_menu_read_toolbar.xml" value="0.2882051282051282" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/menu/home_menu_selection.xml" value="0.29270833333333335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/menu/home_read_menu.xml" value="0.29270833333333335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/home/src/main/res/menu/home_selection_menu.xml" value="0.287962962962963" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/login/src/main/res/drawable-v24/home_shape.xml" value="0.2722222222222222" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/login/src/main/res/drawable-v24/login_background_blue.xml" value="0.2324074074074074" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/login/src/main/res/drawable-v24/login_background_blue2.xml" value="0.2324074074074074" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/login/src/main/res/drawable-v24/login_bound.xml" value="0.2722222222222222" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/login/src/main/res/drawable-v24/login_shape.xml" value="0.2324074074074074" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/login/src/main/res/drawable/ic_launcher_background.xml" value="0.2351851851851852" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/login/src/main/res/layout/activity_login_main.xml" value="0.29270833333333335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/login/src/main/res/layout/login_activity_main.xml" value="0.33" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/login/src/main/res/layout/login_forget_activity.xml" value="0.27870370370370373" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/login/src/main/res/layout/login_login_activity.xml" value="0.25" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/login/src/main/res/layout/login_main_activity.xml" value="0.22" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/login/src/main/res/layout/login_new_password_activity.xml" value="0.27870370370370373" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/login/src/main/res/layout/login_register_activity.xml" value="0.5" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/login/src/main/res/layout/login_succeed_activity.xml" value="0.25" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/login/src/main/res/layout/login_verify_activity.xml" value="0.27870370370370373" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/drawable-v24/home_shape_10.xml" value="0.2786458333333333" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/drawable-v24/home_shape_20.xml" value="0.2786458333333333" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/drawable-v24/home_shape_25.xml" value="0.2786458333333333" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/layout/home_create_activity.xml" value="0.3703125" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/layout/search_activity_main.xml" value="0.33" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/layout/search_attention_fragment.xml" value="0.35833333333333334" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/layout/search_catalog_activity.xml" value="0.35833333333333334" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/layout/search_create_activity.xml" value="0.5" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/layout/search_create_activity2.xml" value="0.3625" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/layout/search_discover_fragment.xml" value="0.35833333333333334" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/layout/search_edit_activity.xml" value="0.3578125" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/layout/search_info_activity.xml" value="0.375" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/layout/search_item_book.xml" value="0.35833333333333334" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/layout/search_item_catalog.xml" value="0.35833333333333334" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/layout/search_item_fragment.xml" value="0.35833333333333334" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/layout/search_main_activity_2.xml" value="0.35833333333333334" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/layout/search_message_fragment.xml" value="0.35833333333333334" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/layout/search_recommend_fragment.xml" value="0.3416666666666667" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/layout/search_test_fragment.xml" value="0.35833333333333334" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/layout/search_title_activity.xml" value="0.335" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/layout/search_type_activity.xml" value="0.35833333333333334" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/layout/search_write_activity.xml" value="0.35833333333333334" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/layout/search_writer_fragment.xml" value="0.33" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/layout/search_writing_fragment.xml" value="0.35833333333333334" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/menu/search_menu.xml" value="0.35833333333333334" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/menu/search_menu_button_navigation_view.xml" value="0.3578125" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/menu/search_menu_edit.xml" value="0.3578125" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/menu/search_menu_edit_button_navigation_view.xml" value="0.25833333333333336" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/menu/search_menu_edit_toolbar.xml" value="0.3578125" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/menu/search_menu_info.xml" value="0.3385416666666667" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/menu/search_menu_writer.xml" value="0.3578125" />
+        <entry key="..\:/program/Android/Java2/MyApplication12/search/src/main/res/xml/file_paths.xml" value="0.35137895812053116" />
+        <entry key="..\:/program/android/MyApplication12/app/src/main/res/layout/activity_main.xml" value="0.23641304347826086" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

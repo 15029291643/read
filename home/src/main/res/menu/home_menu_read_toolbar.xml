@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        app:showAsAction="always"
+        android:title="订阅" />
+    <item
+        app:showAsAction="always"
+        android:title="月票" />
+    <item
+        android:icon="@drawable/ic_launcher_background"
+        android:title="详情" />
+    <item
+        android:icon="@drawable/ic_launcher_background"
+        android:title="添加书签" />
+    <item
+        android:icon="@drawable/ic_launcher_background"
+        android:title="搜索" />
+    <item android:title="自动订阅" />
+    <item android:title="更新提醒" />
+    <item android:title="本章说开关" />
+    <item android:title="举报" />
+</menu>

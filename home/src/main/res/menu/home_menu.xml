@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_BookshelfFragment"
+        android:icon="@drawable/home_img_bookshelf"
+        android:title="书架" />
+    <item
+        android:id="@+id/home_SelectionFragment"
+        android:icon="@drawable/home_img_selection"
+        android:title="精选" />
+    <item
+        android:id="@+id/home_DiscoverFragment"
+        android:icon="@drawable/home_img_discover"
+        android:title="发现" />
+    <item
+        android:id="@+id/home_MeFragment"
+        android:icon="@drawable/home_img_me"
+        android:title="我" />
+</menu>

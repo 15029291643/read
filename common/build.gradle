@@ -1,0 +1,68 @@
+plugins {
+    id 'com.android.library'
+}
+
+android {
+    compileSdk app_android.compileSdk
+
+    defaultConfig {
+        minSdk app_android.minSdk
+        targetSdk app_android.targetSdk
+        versionCode app_android.versionCode
+        versionName app_android.versionName
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        consumerProguardFiles "consumer-rules.pro"
+        // ARouter
+        javaCompileOptions {
+            annotationProcessorOptions {
+                arguments = [AROUTER_MODULE_NAME: project.getName()]
+            }
+        }
+    }
+
+    buildTypes {
+        debug {
+            buildConfigField("boolean", "isDebug", "Boolean.parseBoolean(\"$isDebug\")")
+        }
+        release {
+            buildConfigField("boolean", "isDebug", "Boolean.parseBoolean(\"$isDebug\")")
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    testImplementation 'junit:junit:4.+'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+    // 默认
+    implementation app_dependencies.material
+    // ARouter
+    api app_dependencies.arouter_api
+    annotationProcessor app_dependencies.arouter_compiler
+    // Retrofit
+    implementation app_dependencies.retrofit
+    implementation app_dependencies.converter_gson
+    // Jsoup
+    implementation app_dependencies.jsoup
+    implementation app_dependencies.JsoupXpath
+    // Volley
+    implementation app_dependencies.volley
+    // Glide
+    implementation app_dependencies.glide
+    annotationProcessor app_dependencies.compiler
+    implementation app_dependencies.glide_transformations
+    // 图像模糊
+    implementation app_dependencies.picasso
+    // Room
+    implementation app_dependencies.room
+    annotationProcessor app_dependencies.persistence
+}
